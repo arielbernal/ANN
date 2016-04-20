@@ -2,6 +2,7 @@
 #define ANN_DATASET_H
 
 #include <iostream>
+#include <string>
 #include <vector>
 #include <fstream>
 #include <random>
